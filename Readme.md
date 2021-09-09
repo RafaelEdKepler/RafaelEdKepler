@@ -1,5 +1,10 @@
 ## Olá! Seja muito bem-vindo! Me chamo Rafael Eduardo Kepler, e esse é o meu GitHub!
  <div>
+  - <i>Developer in javascript stack's like ReactJS, React Native and NodeJS;</i>
+  - <i>Experience with web development with Javascript Vanilla, HTMl, CSS and ReactJS;</i>
+  - <i>Always looking for a better way;</i>
+ <div>
+ <div>
   <a href="https://github.com/RafaelEdKepler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeledkepler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeledkepler&layout=compact&langs_count=7&theme=dracula"/>
