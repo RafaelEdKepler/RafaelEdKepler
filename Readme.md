@@ -1,7 +1,7 @@
 ## Olá! Seja muito bem-vindo! Me chamo Rafael Eduardo Kepler, e esse é o meu GitHub!
  <div>
-  - <i>Developer in javascript stack's like ReactJS, React Native and NodeJS;</i>
-  - <i>Experience with web development with Javascript Vanilla, HTMl, CSS and ReactJS;</i>
+  - <i>Developer in javascript stack's like ReactJS, React Native and NodeJS;</i><br>
+  - <i>Experience with web development with Javascript Vanilla, HTMl, CSS and ReactJS;</i><br>
   - <i>Always looking for a better way;</i>
  <div>
  <div>
