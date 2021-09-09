@@ -1,12 +1,5 @@
 ## Olá! Seja muito bem-vindo! Me chamo Rafael Eduardo Kepler, e esse é o meu GitHub!
  <div>
- - <span style="font-size: 10px; line-height: 5px;"><i>Developer in javascript stack's like ReactJS, React Native and NodeJS;</i></span><br>
- - <span style="font-size: 10px; line-height: 5px;"><i>Experience with web development with Javascript Vanilla, HTML, CSS and ReactJS;</i></span><br>
- - <span style="font-size: 10px; line-height: 5px;"><i>Experience with desktop development with Java and Delphi;</i></span><br>
- - <span style="font-size: 10px; line-height: 5px;"><i>Experience with backend development with NodeJS and PHP;</i></span><br>
- - <span style="font-size: 10px; line-height: 5px; margin-bottom: 10px;"><i>Always looking for a better way;</i></span>
- <div>
- <div>
   <a href="https://github.com/RafaelEdKepler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeledkepler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeledkepler&layout=compact&langs_count=7&theme=dracula"/>
