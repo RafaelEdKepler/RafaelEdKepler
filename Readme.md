@@ -1,25 +1,46 @@
-## Olá! Seja muito bem-vindo! Me chamo Rafael Eduardo Kepler, e esse é o meu GitHub!
+ # 👋 Hi, I'm Rafael Kepler
+
+I'm a **Front-End Developer** with solid experience in **Fullstack development**. My main stack includes **React**, **Next.js**, and **TypeScript**, and I'm passionate about building clean, scalable, and accessible web applications.
+
  <div>
   <a href="https://github.com/RafaelEdKepler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeledkepler&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://nextjs.org/favicon.ico">
- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-</div>
+---
 
-  ###
+## 💼 About Me
 
-<div>
-  <a href="https://www.instagram.com/kepleredrafael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rafael.ed.kepler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaeledkepler/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 💻 Working in tech since **2020**
+- ⚛️ Focused on **React ecosystem** and modern web development
+- 🌐 Comfortable with both **frontend and backend** logic
+- 🧪 Experienced with **testing tools** like **Jest** and **Cypress**
+- 🚀 I've contributed to high-traffic applications and care about performance, UX, and clean code
 
-  ![Snake animation](https://github.com/rafaeledkepler/rafaeledkepler/blob/output/github-contribution-grid-snake.svg)
+---
 
-</div>
+## 🛠️ Technologies I work with
+
+- React / Next.js
+- TypeScript / JavaScript
+- Node.js
+- Tailwind CSS / Styled-Components
+- Jest / Cypress
+- Git / GitHub
+
+---
+
+## 📌 Projects on this profile
+
+Most of the repositories you’ll find here are related to personal studies, experiments, or components I’ve built to improve my skills and explore new tools.  
+Feel free to explore, fork, or reach out if something catches your interest!
+
+---
+
+## 📬 Let's connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/rafaeledkepler)
+- 💼 [Portfolio Website](https://rafaeledkepler.dev) <!-- (if you publish it) -->
+- 📫 rafael.kepler@hotmail.com
+
+Thanks for stopping by!
