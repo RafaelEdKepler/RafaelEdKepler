@@ -40,7 +40,7 @@ Feel free to explore, fork, or reach out if something catches your interest!
 ## 📬 Let's connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/rafaeledkepler)
-- 💼 [Portfolio Website](https://rafaeledkepler.dev) <!-- (if you publish it) -->
+- 💼 [Portfolio Website](https://rafaeledkepler.vercel.app) <!-- (if you publish it) -->
 - 📫 rafael.kepler@hotmail.com
 
 Thanks for stopping by!
