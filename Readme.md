@@ -11,7 +11,7 @@ I'm a **Front-End Developer** with solid experience in **Fullstack development**
 
 ## 💼 About Me
 
-- 💻 Working in tech since **2020**
+- 💻 Working in tech since **2015** and with fullstack development since **2020**
 - ⚛️ Focused on **React ecosystem** and modern web development
 - 🌐 Comfortable with both **frontend and backend** logic
 - 🧪 Experienced with **testing tools** like **Jest** and **Cypress**
